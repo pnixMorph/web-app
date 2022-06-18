@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://172.31.95.118:8081/repository/sense-Snapshot/</url>
+	      <url>http://172.31.95.118:8081/repository/sense-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
