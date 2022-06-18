@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://172.31.95.118:8081/repository/sense-release/</url>
+	      <name>Morph Learning Releases Nexus Repository</name>
+	      <url>http://172.31.21.207:8081/repository/myspace-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://172.31.95.118:8081/repository/sense-snapshot/</url>
+	      <name>Morph Learning Snapshot Nexus Repository </name>
+	      <url>http://172.31.21.207:8081/repository/myspace-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
